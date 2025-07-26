@@ -1,5 +1,7 @@
 # Chatty - A Real-time MERN Stack Chat Application 🚀
 
+[![Deploy to GitHub Pages](https://github.com/Harshitha205/Chat-App-Deployment/actions/workflows/static.yml/badge.svg)](https://github.com/Harshitha205/Chat-App-Deployment/actions/workflows/static.yml)
+
 **🌐 Live Demo**: https://harshitha205.github.io/Chat-App-Deployment/
 
 **📁 Repository**: https://github.com/Harshitha205/Chat-App-Deployment
