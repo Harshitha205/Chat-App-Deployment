@@ -1,6 +1,8 @@
 # Chatty - A Real-time MERN Stack Chat Application 🚀
 
-**🌐 Live Demo**: https://yesh00008.github.io/Chat-app-main/
+**🌐 Live Demo**: https://harshitha205.github.io/Chat-App-Deployment/
+
+**📁 Repository**: https://github.com/Harshitha205/Chat-App-Deployment
 
 Chatty is a modern, full-stack real-time chat application built with the MERN (MongoDB, Express.js, React, Node.js) stack. It provides a seamless and instant messaging experience, featuring user authentication, live status updates, and dynamic theming.
 
